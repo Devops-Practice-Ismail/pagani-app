@@ -1,4 +1,0 @@
-checking 
-the 
-restore
-command
