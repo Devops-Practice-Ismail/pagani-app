@@ -5,3 +5,4 @@ pwd
 whoami
 uname
 who
+ls -l
