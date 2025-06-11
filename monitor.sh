@@ -2,3 +2,5 @@
 df -uh
 free -h
 pwd
+whoami
+uname
