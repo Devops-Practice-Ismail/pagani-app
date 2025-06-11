@@ -4,3 +4,4 @@ free -h
 pwd
 whoami
 uname
+who
